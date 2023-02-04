@@ -17,7 +17,7 @@
         <br>
         <br>
         <p> Title: ${note.title}</p>
-        <p> Title: ${note.content}</p>
+        <p> Contents: ${note.content}</p>
         <br>
         <br>
         <a href="editnote">Edit</a>

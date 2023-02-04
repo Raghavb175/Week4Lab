@@ -20,8 +20,8 @@
             <label for="edittile">Title:</label>
             <input type="text" name="edittitle" value="${note.title}">
             <br><br>
-            <label for="editcontent" name="editcontent" value="${note.content}">
-                <textarea name="editcontents">${note.content}</textarea>
+            <label for="editcontent">Content:</label>
+                <textarea name="editcontent">${note.content}</textarea>
                 <br>
                 <br>
                 <input type="submit" name="load" value="Save">
