@@ -17,10 +17,12 @@
         <br>
         <br>
         <p> Title: ${note.title}</p>
-        <p> Title: ${note.contents}</p>
+        <p> Title: ${note.content}</p>
         <br>
         <br>
         <a href="editnote">Edit</a>
         <input type="hidden" name="mode" value="edit">
     </body>
 </html>
+
+
